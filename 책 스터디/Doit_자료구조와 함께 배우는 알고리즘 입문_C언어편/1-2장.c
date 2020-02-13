@@ -1,7 +1,8 @@
-#pragma warning(disable:4996)
+/*#pragma warning(disable:4996)
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+*/
 /* 1 기본 알고리즘 */
 
 //실습 1 세 수의 최대값 
