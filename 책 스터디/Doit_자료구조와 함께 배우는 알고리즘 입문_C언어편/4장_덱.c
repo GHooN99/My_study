@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-//deck 의 구현 
+//deque 의 구현 
 
 typedef struct
 {
