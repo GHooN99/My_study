@@ -28,6 +28,7 @@
 -|-|-
 [2019.AdvancedC]|2019.09~12|고급C프로그래밍 수업관련 코드
 [2020.DataStructure]|2020.03~|자료구조 수업관련 코드
+[2020.Dynamic_System_Modeling]|2020.03~|동적시스템모델링 수업관련 코드
 
 <hr>
 
@@ -52,3 +53,4 @@
 [모두의 데이터분석 with 파이썬]: https://github.com/GHooN99/My_study/tree/master/%EC%B1%85%20%EC%8A%A4%ED%84%B0%EB%94%94/%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC
 [2019.AdvancedC]: https://github.com/GHooN99/My_study/tree/master/2019.AdvancedC
 [2020.DataStructure]: https://github.com/GHooN99/My_study/tree/master/2020.DataStructure
+[2020.Dynamic_System_Modeling]:https://github.com/GHooN99/My_study/tree/master/2020.Dynamic_System_Modeling
