@@ -12,16 +12,16 @@
 번호|제목|내용
 -|-|-
 1|기초 머신러닝 용어|텐서플로 설치, 기초 계산
-2|Linear Regression(1)|Hypothesis 와 cost 
-3|Linear Regression(2)|Gradient Descent 알고리즘
-4|Linear Regression(3)|Multi-variable Linear Regression
-5|Logistic Regression(1)|Logistic Regression의 가설 함수
-6|Logistic Regression(2)|Logistic Regression의 cost 함수
-7|Softmax Regression(1)|Softmax Regression의 가설 함수
-8|Softmax Regression(2)|Softmax Regression의 cost 함수
+2|Linear Regression (1)|Hypothesis 와 cost 
+3|Linear Regression (2)|Gradient Descent 알고리즘
+4|Linear Regression (3)|Multi-variable Linear Regression
+5|Logistic Regression (1)|Logistic Regression의 가설 함수
+6|Logistic Regression (2)|Logistic Regression의 cost 함수
+7|Softmax Regression (1)|Softmax Regression의 가설 함수
+8|Softmax Regression (2)|Softmax Regression의 cost 함수
 9|학습관련 (1)|학습 rate , Overfitting , 일반화 
 9|학습관련 (2)|Traning/Testing 데이타 셋 , MNIST 데이터 셋
-10|딥러닝의 기본개념(1)| 신경망과 XOR 문제 ,Back propagation
+10|딥러닝의 기본개념 (1)| 신경망과 XOR 문제 ,Back propagation
 
 
 <hr>
@@ -35,10 +35,10 @@
 
 번호|제목|내용
 -|-|-
-1|인공 신경망의 동작원리(1)|
-2|인공 신경망의 동작원리(2)| 
-3|파이썬으로 인공 신경망 만들기(1)|
-4|파이썬으로 인공 신경망 만들기(2)|
+1|인공 신경망의 동작원리 (1)| 분류와 예측, 뉴런-신경망, 행렬곱, 가중치 학습
+2|인공 신경망의 동작원리 (2)|오차의 역전파, 가중치 계산, 경사하강법, 학습률 
+3|파이썬으로 인공 신경망 만들기 (1)|
+4|파이썬으로 인공 신경망 만들기 (2)|
 
 <hr>
 
