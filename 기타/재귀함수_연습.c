@@ -2,8 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
 // CodeUp 1953 2중 ? 재귀함수 연습
 
 void star(int n) // 별 출력 재귀
@@ -34,4 +32,3 @@ int main()
 
 	return 0;
 }
-
