@@ -144,7 +144,7 @@ void terminateList(List *list)
 {
 	while (list->size !=0)
 	{
-		deleteItem(list, 1);
+		deleteData(list, 1);
 	}
 	free(list->head);
 	free(list->tail);
@@ -172,12 +172,12 @@ int main()
 		if (func == 'A')
 		{
 			scanf("%d %c", &idx, &data);
-			addItem(&list, idx, data);
+			addData(&list, idx, data);
 		}
 		else if (func == 'D')
 		{
 			scanf("%d", &idx);
-			deleteItem(&list, idx);
+			deleteData(&list, idx);
 		}
 		else if (func == 'P')
 		{
@@ -187,7 +187,7 @@ int main()
 		{
 			scanf("%d", &idx);
 			
-			char k = getEntry(&list, idx);
+			char k = getData(&list, idx);
 			if(!(k==1))
 			printf("%c\n", k);
 		}
