@@ -7,3 +7,13 @@
 
 - 8958
 -10951 
+
+2개의 숫자를 받기
+
+<pre>
+<code>
+a,b = map(int,input().split())
+</code>
+</pre>
+리스트로 숫자 받기
+s = list(map(int,input().split()))
