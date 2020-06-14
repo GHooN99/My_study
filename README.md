@@ -10,7 +10,7 @@
 -|-|-
 [인공지능 기초 스터디]|2020.01~03|[모두를 위한 딥러닝 시즌1]을 기반으로 한 공부
 [생활코딩_WebN]|2020.05~|[생활코딩 유튜브] html, css, javascript 웹 기초 공부
-
+[알고리즘 문제풀이]|2020.06~|백준([BOJ]), 등 알고리즘 문제 풀이
 <hr>
 
 ### 책 스터디 
@@ -45,8 +45,8 @@
 
 
 
-
-
+[알고리즘 문제풀이]:https://github.com/GHooN99/My_study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4
+[BOJ]:https://www.acmicpc.net/
 [인공지능 기초 스터디]: https://github.com/GHooN99/My_study/tree/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94
 [모두를 위한 딥러닝 시즌1]: https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 [생활코딩_WebN]: https://github.com/GHooN99/My_study/tree/master/Web_n

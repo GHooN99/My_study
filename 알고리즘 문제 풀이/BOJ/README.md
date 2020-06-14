@@ -8,6 +8,9 @@
 - 8958
 -10951 
 
+- 1018
+
+
 2개의 숫자를 받기
 
 <pre>
@@ -17,3 +20,12 @@ a,b = map(int,input().split())
 </pre>
 리스트로 숫자 받기
 s = list(map(int,input().split()))
+
+
+a = [ 식 for i in range(a)]
+
+s = 1234
+
+s = list(str(1234))
+
+-> s = ['1','2','3','4']
