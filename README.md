@@ -20,7 +20,7 @@
 [Doit_데이터분석을 위한 판다스 입문]|2020.03~|Pandas 기초와 응용 
 [Doit_자료구조와 함께 배우는 알고리즘 입문_C언어편]|2020.01~03|C언어로 자료구조과 알고리즘 입문 
 [모두의 데이터분석 with 파이썬]|2019.06~08|파이썬을 이용한 간단한 데이터 시각화
-
+[Doit_HTML5+CSS3_웹표준의정석]|2020.07~|웹 개발을 위한 HTML CSS 입문
 <hr>
 
 ### 학교관련
@@ -29,7 +29,7 @@
 -|-|-
 [2019.AdvancedC]|2019.09~12|고급C프로그래밍 수업관련 코드
 [2020.DataStructure]|2020.03~06|자료구조 수업관련 코드
-[2020.Dynamic_System_Modeling]|2020.03~06|동적시스템모델링 수업관련 코드
+
 
 <hr>
 
@@ -56,4 +56,4 @@
 [모두의 데이터분석 with 파이썬]: https://github.com/GHooN99/My_study/tree/master/%EC%B1%85%20%EC%8A%A4%ED%84%B0%EB%94%94/%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC
 [2019.AdvancedC]: https://github.com/GHooN99/My_study/tree/master/%ED%95%99%EA%B5%90%20%EA%B3%B5%EB%B6%80/2019.AdvancedC
 [2020.DataStructure]: https://github.com/GHooN99/My_study/tree/master/%ED%95%99%EA%B5%90%20%EA%B3%B5%EB%B6%80/2020.DataStructure
-[2020.Dynamic_System_Modeling]:https://github.com/GHooN99/My_study/tree/master/%ED%95%99%EA%B5%90%20%EA%B3%B5%EB%B6%80/2020.Dynamic_System_Modeling
+[Doit_HTML5+CSS3_웹표준의정석]:https://github.com/GHooN99/My_study/tree/master/%EC%B1%85%20%EC%8A%A4%ED%84%B0%EB%94%94/Doit_HTML5%2BCSS3_%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%98%EC%A0%95%EC%84%9D
