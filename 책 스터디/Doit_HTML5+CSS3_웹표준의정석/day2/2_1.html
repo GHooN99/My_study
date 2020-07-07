@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>day2</title>
+</head>
+
+
+<body>
+
+  <h1> day 2</h1>
+  <hr>
+  <h2>이미지 태그 </h2>
+  <img src="./img/html.png" alt="html" width="150" height="75">
+  <hr>
+  <figure>
+
+    <p>한 단위로 묶음 figure 태그 </p>
+
+    <img src="./img/css.png" width="200" height="300">
+    <figcaption> 설명 글</figcaption>
+  </figure>
+
+  <hr>
+
+  <h2> 링크 태그</h2>
+  <a href="https://www.naver.com" target="_blank">네이버</a>
+
+  <hr>
+  <h3> 점프 하는 앵커</h3>
+  <ul id="menu">
+    <li><a href="#cont1">메뉴1</a></li>
+    <li><a href="#cont2">메뉴2</a></li>
+  </ul>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h2 id="cont1">메뉴 1</h2>
+  <p>내용이 길면... <br>
+    <br>
+    <br>
+    <br>
+  </p>
+  <h2 id="cont2">메뉴2</h2>
+  <p>여기로 점프</p>
+
+  <hr>
+
+  <h1>폼 관련 태그들 </h1>
+
+  <form autocomplete="off">
+    <label>아이디: <input type="text" title="검색"></label>
+    <input type="submit" value="검색">
+
+  </form>
+
+
+
+  <hr>
+
+  <form>
+    <fieldset>
+      <legend>
+        <h2>안녕</h2>
+      </legend>
+      <h2>수강분야</h2>
+      <p> 여기서는 텍스트 눌러도 체크 안됨</p>
+      <ul>
+        <li><input type="checkbox">문법</li>
+        <li><input type="checkbox">작문</li>
+        <li><input type="checkbox">독해</li>
+      </ul>
+      <h2>수강과목</h2>
+      <p> 여기서는 텍스트 눌러도 체크 됨</p>
+      <ul>
+        <li><label><input type="checkbox">영어</label>
+      </ul>
+    </fieldset>
+  </form>
+
+  <hr>
+  <h1>로그인 폼</h1>
+
+  <form>
+    <fieldset>
+      <legend>로그인1</legend>
+
+      <label>아이디 :<input type="text"></label>
+      <br>
+      <label>비밀번호:<input type="text"></label>
+    </fieldset>
+  </form>
+
+  <form>
+    <fieldset>
+      <legend>
+        <h2>로그인 2 </h2>
+      </legend>
+      <ul>
+        <li>
+          <label for="id">아이디 :</label>
+          <input type="text" id="id">
+        </li>
+        <li>
+          <label for="password">비밀번호</label>
+          <input type="text" id="password"></li>
+      </ul>
+
+    </fieldset>
+  </form>
+
+  <hr>
+  <h1> 여러가지 인풋 태그</h1>
+  <br>
+
+  <input type="hidden">
+  <input type="datetime">
+  <input type="search">
+  <input type="password">
+  <input type="email">
+
+  <hr>
+  <input type="text" placeholder="input!!">
+  <br>
+  <hr>
+
+  <h1> 회원가입 폼 만들기</h1>
+  <form>
+    <fieldset>
+      <legend>
+        <h2>로그인 정보</h2>
+      </legend>
+      <ul>
+        <li>
+          <label for="id">아이디</label>
+          <input id="id" type="text" placeholder="아이디를 입력하세요" size="20" minlength="8" maxlength="10">
+          <small style="color: red;">8자에서 10자 이내</small>
+        </li>
+        <li>
+          <label for="password">비밀번호</label>
+          <input id="password" type="text" placeholder="비밀번호를 입력하세요">
+        </li>
+
+      </ul>
+    </fieldset>
+  </form>
+
+
+<input type="button" value="새탭열기" onclick="window.open()">
+
+
+</body>
+
+</html>
