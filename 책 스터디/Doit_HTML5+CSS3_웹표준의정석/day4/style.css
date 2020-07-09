@@ -1,0 +1,18 @@
+*{
+  color: green;
+}
+
+li{
+  color: blue;
+}
+#special{
+  color: pink;
+}
+.red{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+button:hover{
+  color: red;
+}

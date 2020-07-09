@@ -1,0 +1,22 @@
+*{
+  background-color: black;
+
+}
+h1.hello{
+  color: burlywood;
+}
+p{
+  font-size: 20px;
+  color: aqua;
+}
+.class1{
+  color: pink;
+}
+.bluetext{
+  color: skyblue;
+}
+#id1{
+  color: brown;
+  font-size: 30px;
+  
+}
