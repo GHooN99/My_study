@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+* {
+  background-color: rgb(39, 39, 44);
+  font-family: "맑은 고딕";
+  color: aliceblue;
+}
+
+.font1 {
+  font-family: 'Jua', sans-serif;
+  color: greenyellow;
+}
+
+.font2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  color: rgb(255, 0, 255);
+}
+
+.fontsize1 {
+  font-size: 1em;
+}
+
+.fontsize2 {
+  font-size: 3em;
+  font-size: 2em;
+  font-style: bold;
+  font-family: 'Nanum Gothic';
+}
+
+.fontsize3 {
+  font-size: 3em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.fontsize3 {
+  font: italic bold 3em 'Jua';
+}
+
+a {
+  text-decoration: none;
+  font-size: 2em;
+  text-shadow: 2px 2px 10px aliceblue;
+}
+
+.textalign1 {
+  border-style: solid;
+  border-color: aliceblue;
+
+  text-align: left;
+}
+
+.textalign2 {
+  border-style: solid;
+  border-color: aliceblue;
+
+  text-align: center;
+}
+
+.textalign3 {
+  text-align: right;
+}
+
+ul.one li{
+  border-style: solid;
+  list-style-type: none;
+  font-size: 30px;
+  font-family:'Jua';
+  color:green ;
+
+}

@@ -1,0 +1,31 @@
+*{
+  background-color: rgb(0, 0, 36);
+  color: aliceblue;
+}
+p{
+  font-size: 20px;
+}
+h1.blue-text{
+  color: blue;
+  font-size: 50px;
+  margin: 50px;
+  padding: 50px;
+  border-style: solid;
+  border-color: gray;
+}
+span.blue-text{
+  color: blue;
+}
+.bold-text{
+  font-weight: bold;
+}
+h2.blue-text
+{
+  color:blue
+}
+h1,h2{
+  text-align: center;
+}
+h1:hover{
+  transform: rotate(15deg);
+}
