@@ -1,5 +1,74 @@
-*{
+* {
   background-color: rgb(24, 24, 31);
   color: antiquewhite;
   font-family: "맑은 고딕";
+}
+
+.boxfont {
+  color: black;
+  font-size: 40px;
+}
+
+.box1 {
+  width: 400px;
+  height: 100px;
+  background-color: aliceblue;
+}
+
+.box2 {
+  width: 50%;
+  height: 100px;
+  background-color: aquamarine;
+
+}
+
+nav ul li {
+  list-style: none;
+  font-size: 30px;
+  display: inline-block;
+  padding: 50px;
+  margin: 20px;
+
+}
+
+nav {
+  margin: 0px;
+  border-style: solid;
+  background-color: chartreuse;
+  
+}
+
+nav ul li a:hover {
+  background-color: blue;
+}
+
+.border1 {
+  /*
+  margin: 20px 20px 20px 0px;
+  padding: 20px;
+  */
+  border: 20px yellowgreen solid;
+  border-radius: 50px;
+
+}
+
+.border1 p {
+  color: tan;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.boxmodel{
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  background-color: azure;
+  border:10px seagreen solid;
+  margin: 50px;
+  padding: 40px;
+  
+}
+a{
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0);
 }
